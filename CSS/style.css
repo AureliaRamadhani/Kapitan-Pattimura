@@ -211,3 +211,45 @@ body {
     margin: 10px auto; 
     text-align: center;
 }
+.sosmed-container {
+    margin-top: 25px;
+    text-align: -webkit-right;
+}
+.sosmed-content {
+    background-color: #982B1C;
+    text-align: left;
+    font-size: 25px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.sosmed {
+    margin-left: 15px;
+    flex-grow: 0;
+    color: #F2E8C6;
+    display: flex;
+}
+.sosmed-text {
+    letter-spacing: 3px;
+    align-self: center;
+    margin-right: 15px;
+}
+.sosmed-divider-master {
+    flex-grow: 1;
+    margin-left: 15px;
+}
+.sosmed-divider {
+    height: 8px;
+    background-color: #F2E8C6;
+}
+.sosmed-divider-first {
+    margin-bottom: 10px;
+    height: 3px;
+    background-color: #982B1C;
+}
+.sosmed-divider-last {
+    margin-top: 10px;
+    height: 3px;
+    background-color: #982B1C;
+}
