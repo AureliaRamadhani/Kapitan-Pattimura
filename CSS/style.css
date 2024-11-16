@@ -60,7 +60,7 @@ body {
     border-bottom-style: solid;
     align-self: center;
     padding-top: 12px;
-    padding-bottom: 20px;
+    padding-bottom: 12px;
     padding-left: 20px;
     padding-right: 20px;
     margin-left: 10px;
@@ -99,7 +99,7 @@ body {
     margin-top: 150px;
     text-align: -webkit-right;
 }
-.name-container {
+.name-profile {
     width: 700px;
     background-color: #982B1C;
     text-align: left;
